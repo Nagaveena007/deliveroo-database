@@ -23,7 +23,8 @@
 		  .then(response => response.json())
 		  .then(data => {
 		    const tableBody = document.getElementById('table-body');
-		    data.forEach(person => {
+        console.log(data,'resultData')
+		  /*   data.forEach(person => {
 		      const row = document.createElement('tr');
 		      row.innerHTML = `
 		        <td>${person.name}</td>
@@ -31,7 +32,7 @@
 		        <td>${person.location}</td>
 		      `;
 		      tableBody.appendChild(row);
-		    });
+		    }); */
 		  });
 	</script>
 </body>
