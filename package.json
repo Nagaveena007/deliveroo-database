@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^9.19.1",
     "json-server": "^0.17.0"
   }
 }
