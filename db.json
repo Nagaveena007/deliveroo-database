@@ -10,11 +10,9 @@
       "long":"0.5",
       "address":"Schwarzwaldstraße 123",
       "rating":4.5,
-      "offer":{
         "featured":true,
         "tasteyDiscounts":false,
-        "offersNearYou":true
-      },
+        "offersNearYou":true,
       "dishes":[
         {
           "name":"Pizza Neapolitan",
@@ -58,11 +56,9 @@
       "long":"10.5",
       "address":"Schwarzwaldstraße 123",
       "rating":4.5,
-      "offer":{
         "featured":false,
         "tasteyDiscounts":false,
-        "offersNearYou":true
-      },
+        "offersNearYou":true,
       "dishes":[
         {
           "name":"Vegitarian Thali",
@@ -100,11 +96,9 @@
       "image":"https://sushi-guide.co.uk/wp-content/uploads/2022/03/Sushi-Restaurant.jpg",
       "address":"fehrbeliner 123",
       "rating":4.5,
-      "offer":{
         "featured":true,
         "tasteyDiscounts":true,
-        "offersNearYou":false
-      },
+        "offersNearYou":false,
       "dishes":[
         {
           "name":"Sushi Gunkanmaki",
