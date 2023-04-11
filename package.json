@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UmaSahni/render-json-server.git"
+    "url": "git+https://github.com/Nagaveena007/deliveroo-database.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/UmaSahni/render-json-server/issues"
+    "url": "https://github.com/Nagaveena007/deliveroo-database/restaurants"
   },
-  "homepage": "https://github.com/UmaSahni/render-json-server#readme",
+  "homepage": "https://github.com/Nagaveena007/deliveroo-database#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",

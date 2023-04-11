@@ -1,6 +1,19 @@
 {
   "restaurants":[
     {
+      "id":1,
+      "name":"Gio-Gusto",
+      "genre":"Italien",
+      "title":"Tasty Italien food",
+      "lat":"20.5",
+      "long":"0.5",
+      "address":"Schwarzwaldstraße 123",
+      "rating":4.5,
+      "offer":{
+        "featured":true,
+        "tasteyDiscounts":false,
+        "offersNearYou":true
+      },
       "dishes":[
         {
           "name":"Pizza Neapolitan",
@@ -31,6 +44,82 @@
           "price":7,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/b94b55ecee6853a4bffee396cfc62894031780cc-720x480.webp"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "name":"Indian curry house",
+      "genre":"Indian",
+      "title":"Awesome South and North indian dishes",
+      "lat":"40.5",
+      "long":"10.5",
+      "address":"Schwarzwaldstraße 123",
+      "rating":4.5,
+      "offer":{
+        "featured":false,
+        "tasteyDiscounts":false,
+        "offersNearYou":true
+      },
+      "dishes":[
+        {
+          "name":"Vegitarian Thali",
+          "price":25,
+          "short_description":"Full meals",          
+          "image":"https://cdn.sanity.io/images/5u8koaz3/production/58307906f9986a48d699f2db02fa3bb1fc9fa482-1000x590.jpg"
+        },
+        {
+          "name":"Dosa",
+          "price":10,
+          "short_description":"pan cake",          
+          "image":"https://cdn.sanity.io/images/5u8koaz3/production/e33708dad2ba7d04e8c1b2c00ef9211df4634f38-660x1000.jpg"
+        },
+        {
+          "name":"Idli",
+          "price":9,
+          "short_description":"Rice cake",          
+          "image":"https://cdn.sanity.io/images/5u8koaz3/production/867ac76bb0693f5a0b437b6f2109cdd8fa5f8efb-1500x1000.jpg"
+        },
+        {
+          "name":"Upma",
+          "price":9,
+          "short_description":"Simolina cake",          
+          "image":"https://cdn.sanity.io/images/5u8koaz3/production/272fa496fb8c93ee0c41e3d54401642a944ff2a3-800x533.jpg"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "name":"Oshi Sushi",
+      "genre":"Japanese cuisine",
+      "title":"Awesome Sushi",
+      "lat":"40.5",
+      "long":"10.5",
+      "address":"fehrbeliner 123",
+      "rating":4.5,
+      "offer":{
+        "featured":true,
+        "tasteyDiscounts":true,
+        "offersNearYou":false
+      },
+      "dishes":[
+        {
+          "name":"Sushi Gunkanmaki",
+          "price":25,
+          "short_description":"Sushi Gunkanmaki",          
+          "image":"https://cdn.sanity.io/images/5u8koaz3/production/0acb721a6047b01983f91b0a7df1719de35cada5-1080x1080.jpg"
+        },
+        {
+          "name":"Sushi Maki",
+          "price":10,
+          "short_description":"Sushi Maki",          
+          "image":"https://cdn.sanity.io/images/5u8koaz3/production/60699b158ae96cb583642d16410751b41a4d7fc1-1200x630.webp"
+        },
+        {
+          "name":"Sushi Inari",
+          "price":9,
+          "short_description":"Sushi Inari",          
+          "image":"https://cdn.sanity.io/images/5u8koaz3/production/d802b63810277db713fb2d1bbdba1a7090072240-1500x1001.jpg"
         }
       ]
     }
