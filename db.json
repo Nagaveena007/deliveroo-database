@@ -4,6 +4,7 @@
       "id":1,
       "name":"Gio-Gusto",
       "genre":"Italien",
+      "image":"https://i.etsystatic.com/23444619/r/il/6a2b50/2958612098/il_fullxfull.2958612098_l692.jpg",
       "title":"Tasty Italien food",
       "lat":"20.5",
       "long":"0.5",
@@ -52,6 +53,7 @@
       "name":"Indian curry house",
       "genre":"Indian",
       "title":"Awesome South and North indian dishes",
+      "image":"https://cdn.sanity.io/images/5u8koaz3/production/0a91cf3eba4e2336e34903745b23b16943bc03b4-1024x655.jpg",
       "lat":"40.5",
       "long":"10.5",
       "address":"Schwarzwaldstraße 123",
@@ -95,6 +97,7 @@
       "title":"Awesome Sushi",
       "lat":"40.5",
       "long":"10.5",
+      "image":"https://sushi-guide.co.uk/wp-content/uploads/2022/03/Sushi-Restaurant.jpg",
       "address":"fehrbeliner 123",
       "rating":4.5,
       "offer":{
