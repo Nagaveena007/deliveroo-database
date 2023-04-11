@@ -120,6 +120,13 @@
         }
       ]
     }
+  ],
+  "featuredRow":[
+    {
+      "featured":"featured",
+      "tasteyDiscounts":"tasteyDiscounts",
+      "offersNearYou":"offersNearYou"
+    }
   ]
 
 }
