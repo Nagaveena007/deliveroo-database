@@ -15,30 +15,35 @@
         "offersNearYou":true,
       "dishes":[
         {
+          "id":1,
           "name":"Pizza Neapolitan",
           "price":9,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/9b43e2da2305423d34bf35e5afe76b993fad6675-1024x768.jpg"
         },
         {
+          "id":2,
           "name":"Pizza Seafood",
           "price":9,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/cff203b0a7acda5269e6e58ee9cba0454a0ce53d-1920x1080.jpg"
         },
         {
+          "id":3,
           "name":"Pizza Margherita",
           "price":7,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/7173d0c693cabc98f36a554fdc0a97492b8ae994-1000x1000.webp"
         },
         {
+          "id":4,
           "name":"Pizza hawaiian",
           "price":7,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/24d0e7e5a9044270764243a9549fad30ad741353-1500x1125.jpg"
         },
         {
+          "id":5,
           "name":"Vegitarian Pizza",
           "price":7,
           "short_description":"Italien pizza",          
@@ -61,24 +66,28 @@
         "offersNearYou":true,
       "dishes":[
         {
+          "id":1,
           "name":"Vegitarian Thali",
           "price":25,
           "short_description":"Full meals",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/58307906f9986a48d699f2db02fa3bb1fc9fa482-1000x590.jpg"
         },
         {
+          "id":2,
           "name":"Dosa",
           "price":10,
           "short_description":"pan cake",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/e33708dad2ba7d04e8c1b2c00ef9211df4634f38-660x1000.jpg"
         },
         {
+          "id":3,
           "name":"Idli",
           "price":9,
           "short_description":"Rice cake",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/867ac76bb0693f5a0b437b6f2109cdd8fa5f8efb-1500x1000.jpg"
         },
         {
+          "id":4,
           "name":"Upma",
           "price":9,
           "short_description":"Simolina cake",          
@@ -101,18 +110,21 @@
         "offersNearYou":false,
       "dishes":[
         {
+          "id":1,
           "name":"Sushi Gunkanmaki",
           "price":25,
           "short_description":"Sushi Gunkanmaki",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/0acb721a6047b01983f91b0a7df1719de35cada5-1080x1080.jpg"
         },
         {
+          "id":2,
           "name":"Sushi Maki",
           "price":10,
           "short_description":"Sushi Maki",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/60699b158ae96cb583642d16410751b41a4d7fc1-1200x630.webp"
         },
         {
+          "id":3,
           "name":"Sushi Inari",
           "price":9,
           "short_description":"Sushi Inari",          
@@ -135,30 +147,35 @@
         "offersNearYou":true,
       "dishes":[
         {
+          "id":1,
           "name":"Pizza Neapolitan",
           "price":9,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/9b43e2da2305423d34bf35e5afe76b993fad6675-1024x768.jpg"
         },
         {
+          "id":2,
           "name":"Pizza Seafood",
           "price":9,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/cff203b0a7acda5269e6e58ee9cba0454a0ce53d-1920x1080.jpg"
         },
         {
+          "id":3,
           "name":"Pizza Margherita",
           "price":7,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/7173d0c693cabc98f36a554fdc0a97492b8ae994-1000x1000.webp"
         },
         {
+          "id":4,
           "name":"Pizza hawaiian",
           "price":7,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/24d0e7e5a9044270764243a9549fad30ad741353-1500x1125.jpg"
         },
         {
+          "id":5,
           "name":"Vegitarian Pizza",
           "price":7,
           "short_description":"Italien pizza",          
@@ -181,24 +198,28 @@
         "offersNearYou":true,
       "dishes":[
         {
+          "id":1,
           "name":"Vegitarian Thali",
           "price":25,
           "short_description":"Full meals",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/58307906f9986a48d699f2db02fa3bb1fc9fa482-1000x590.jpg"
         },
         {
+          "id":2,
           "name":"Dosa",
           "price":10,
           "short_description":"pan cake",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/e33708dad2ba7d04e8c1b2c00ef9211df4634f38-660x1000.jpg"
         },
         {
+          "id":3,
           "name":"Idli",
           "price":9,
           "short_description":"Rice cake",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/867ac76bb0693f5a0b437b6f2109cdd8fa5f8efb-1500x1000.jpg"
         },
         {
+          "id":4,
           "name":"Upma",
           "price":9,
           "short_description":"Simolina cake",          
@@ -221,18 +242,21 @@
         "offersNearYou":false,
       "dishes":[
         {
+          "id":1,
           "name":"Sushi Gunkanmaki",
           "price":25,
           "short_description":"Sushi Gunkanmaki",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/0acb721a6047b01983f91b0a7df1719de35cada5-1080x1080.jpg"
         },
         {
+          "id":2,
           "name":"Sushi Maki",
           "price":10,
           "short_description":"Sushi Maki",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/60699b158ae96cb583642d16410751b41a4d7fc1-1200x630.webp"
         },
         {
+          "id":3,
           "name":"Sushi Inari",
           "price":9,
           "short_description":"Sushi Inari",          
@@ -255,30 +279,35 @@
         "offersNearYou":true,
       "dishes":[
         {
+          "id":1,
           "name":"Pizza Neapolitan",
           "price":9,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/9b43e2da2305423d34bf35e5afe76b993fad6675-1024x768.jpg"
         },
         {
+          "id":2,
           "name":"Pizza Seafood",
           "price":9,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/cff203b0a7acda5269e6e58ee9cba0454a0ce53d-1920x1080.jpg"
         },
         {
+          "id":3,
           "name":"Pizza Margherita",
           "price":7,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/7173d0c693cabc98f36a554fdc0a97492b8ae994-1000x1000.webp"
         },
         {
+          "id":4,
           "name":"Pizza hawaiian",
           "price":7,
           "short_description":"Italien pizza",          
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/24d0e7e5a9044270764243a9549fad30ad741353-1500x1125.jpg"
         },
         {
+          "id":5,
           "name":"Vegitarian Pizza",
           "price":7,
           "short_description":"Italien pizza",          
@@ -325,40 +354,6 @@
           "image":"https://cdn.sanity.io/images/5u8koaz3/production/272fa496fb8c93ee0c41e3d54401642a944ff2a3-800x533.jpg"
         }
       ]
-    },
-    {
-      "id":9,
-      "name":"Oshi Sushi",
-      "genre":"Japanese cuisine",
-      "title":"Awesome Sushi",
-      "lat":"40.5",
-      "long":"10.5",
-      "image":"https://sushi-guide.co.uk/wp-content/uploads/2022/03/Sushi-Restaurant.jpg",
-      "address":"fehrbeliner 123",
-      "rating":4.5,
-        "featured":true,
-        "tasteyDiscounts":true,
-        "offersNearYou":false,
-      "dishes":[
-        {
-          "name":"Sushi Gunkanmaki",
-          "price":25,
-          "short_description":"Sushi Gunkanmaki",          
-          "image":"https://cdn.sanity.io/images/5u8koaz3/production/0acb721a6047b01983f91b0a7df1719de35cada5-1080x1080.jpg"
-        },
-        {
-          "name":"Sushi Maki",
-          "price":10,
-          "short_description":"Sushi Maki",          
-          "image":"https://cdn.sanity.io/images/5u8koaz3/production/60699b158ae96cb583642d16410751b41a4d7fc1-1200x630.webp"
-        },
-        {
-          "name":"Sushi Inari",
-          "price":9,
-          "short_description":"Sushi Inari",          
-          "image":"https://cdn.sanity.io/images/5u8koaz3/production/d802b63810277db713fb2d1bbdba1a7090072240-1500x1001.jpg"
-        }
-      ]
     }
   ],
   "featuredRow":[
@@ -370,54 +365,63 @@
   ],
   "dishes":[
     {
+      "id":1,
       "name":"Pizza Neapolitan",
       "price":9,
       "short_description":"Italien pizza",          
       "image":"https://cdn.sanity.io/images/5u8koaz3/production/9b43e2da2305423d34bf35e5afe76b993fad6675-1024x768.jpg"
     },
       {
+        "id":2,
         "name":"Dosa",
         "price":10,
         "short_description":"pan cake",          
         "image":"https://cdn.sanity.io/images/5u8koaz3/production/e33708dad2ba7d04e8c1b2c00ef9211df4634f38-660x1000.jpg"
       },
     {
+      "id":3,
      "name":"Sushi Maki",
      "price":10,
      "short_description":"Sushi Maki",          
      "image":"https://cdn.sanity.io/images/5u8koaz3/production/60699b158ae96cb583642d16410751b41a4d7fc1-1200x630.webp"
      },
     {
+      "id":4,
       "name":"Pizza Seafood",
       "price":9,
       "short_description":"Italien pizza",          
       "image":"https://cdn.sanity.io/images/5u8koaz3/production/cff203b0a7acda5269e6e58ee9cba0454a0ce53d-1920x1080.jpg"
     },
     {
+      "id":5,
       "name":"Vegitarian Thali",
       "price":25,
       "short_description":"Full meals",          
       "image":"https://cdn.sanity.io/images/5u8koaz3/production/58307906f9986a48d699f2db02fa3bb1fc9fa482-1000x590.jpg"
     },
     {
+      "id":6,
       "name":"Sushi Gunkanmaki",
       "price":25,
       "short_description":"Sushi Gunkanmaki",          
       "image":"https://cdn.sanity.io/images/5u8koaz3/production/0acb721a6047b01983f91b0a7df1719de35cada5-1080x1080.jpg"
     },
     {
+      "id":7,
       "name":"Pizza Margherita",
       "price":7,
       "short_description":"Italien pizza",          
       "image":"https://cdn.sanity.io/images/5u8koaz3/production/7173d0c693cabc98f36a554fdc0a97492b8ae994-1000x1000.webp"
     },
     {
+      "id":8,
       "name":"Pizza hawaiian",
       "price":7,
       "short_description":"Italien pizza",          
       "image":"https://cdn.sanity.io/images/5u8koaz3/production/24d0e7e5a9044270764243a9549fad30ad741353-1500x1125.jpg"
     },
     {
+      "id":9,
       "name":"Vegitarian Pizza",
       "price":7,
       "short_description":"Italien pizza",          
@@ -425,12 +429,14 @@
     },
       
       {
+        "id":10,
         "name":"Idli",
         "price":9,
         "short_description":"Rice cake",          
         "image":"https://cdn.sanity.io/images/5u8koaz3/production/867ac76bb0693f5a0b437b6f2109cdd8fa5f8efb-1500x1000.jpg"
       },
       {
+        "id":11,
         "name":"Upma",
         "price":9,
         "short_description":"Simolina cake",          
@@ -438,6 +444,7 @@
       },
        
         {
+          "id":12,
           "name":"Sushi Inari",
           "price":9,
           "short_description":"Sushi Inari",          
